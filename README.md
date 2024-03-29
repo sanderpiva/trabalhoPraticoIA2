@@ -11,7 +11,7 @@
   identificada, pose 'none', será impresso 'não identificado'. 
   Portanto, os cuidados solicitados, a partir da pose detectada, são registrados e impressos na tela.
   É algo já disponível e bastante funcional. Todavia, a imagem registrada e seu pedido associado
-enviado por email ou whatsapp do cuidador é uma melhoria que será implementada no futuro.</p>
+enviado no email ou whatsapp do cuidador é uma melhoria que será implementada no futuro.</p>
 
 
 
