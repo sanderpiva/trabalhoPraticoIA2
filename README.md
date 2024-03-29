@@ -2,13 +2,15 @@
 ![2](https://github.com/sanderpiva/trabalhoPraticoIA2/assets/84524010/d1d7c791-db95-4dca-83cc-2e3e74134bc0)
 ![3](https://github.com/sanderpiva/trabalhoPraticoIA2/assets/84524010/ebe8cd6c-53b7-4332-98db-cfce5c4f278b)
 
-<p>Imagine ter uma aplicação capaz de identificar o movimento da cabeça de um acamado e
+<p style="text-align: justify;">Imagine ter uma aplicação capaz de identificar o movimento da cabeça de um acamado e
   seu registro implicar em um pedido de cuidado enviado diretamente no celular do seu cuidador.
-  A proposta desse trabalho permite que, quando o botão 'começar' for clicado e a camera do seu laptop tiver autorização de uso concedida, 
-  a webcam identifique a pose da imagem apresentada. Cada movimento da cabeça implica em uma ação: 
-  ao mover a cabeça para cima (levantar da cama), baixo (deitar na cama), inclinar para esquerda (ir ao banheiro) e direita (comer). 
-  As ações solicitadas, a partir da pose detectada, são registradas e impressas na tela da aplicação.
+  A aplicação permite que a webcam identifique a pose da imagem apresentada, sua probabilidade de ocorrência e 
+  a solicitação correspondente, imprimindo o resultado na tela. Para isso é necessário clicar no botão 'começar' e acionar a camera do laptop.
+  Cada movimento da cabeça implica em uma solicitação: 
+  ao mover a cabeça para cima (levantar da cama), baixo (deitar na cama), inclinar para esquerda (ir ao banheiro), direita (comer). Caso a imagem não seja
+  identificada, pose 'none', será impresso 'não identificado'. 
+  Portanto, os cuidados solicitados, a partir da pose detectada, são registrados e impressos na tela.
   É algo já disponível e bem funcional. Todavia, a imagem registrada e seu pedido associado
-enviado por email ou whatsapp do cuidador é uma melhoria ainda a ser investigada e implementada no futuro.</p>
+enviado por email ou whatsapp do cuidador é uma melhoria que será implementada no futuro.</p>
 
 
