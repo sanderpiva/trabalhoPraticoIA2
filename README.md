@@ -1,4 +1,3 @@
-<h1>SISTEMA DE PREDIÇÃO DE POSES</h1>
 ![1](https://github.com/sanderpiva/trabalhoPraticoIA2/assets/84524010/5d6e23c6-bde4-4a04-a73b-75faa8ff6368)
 ![2](https://github.com/sanderpiva/trabalhoPraticoIA2/assets/84524010/d1d7c791-db95-4dca-83cc-2e3e74134bc0)
 ![3](https://github.com/sanderpiva/trabalhoPraticoIA2/assets/84524010/ebe8cd6c-53b7-4332-98db-cfce5c4f278b)
