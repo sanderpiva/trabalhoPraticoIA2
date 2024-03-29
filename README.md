@@ -10,7 +10,7 @@
   ao mover a cabeça para cima (levantar da cama), baixo (deitar na cama), inclinar para esquerda (ir ao banheiro), direita (comer). Caso a imagem não seja
   identificada, pose 'none', será impresso 'não identificado'. 
   Portanto, os cuidados solicitados, a partir da pose detectada, são registrados e impressos na tela.
-  É algo já disponível e bastante funcional. Todavia, a imagem registrada e seu pedido associado
+  É algo já disponível e bastante funcional. Todavia, a pose identificada e seu pedido associado
 enviado no email ou whatsapp do cuidador é uma melhoria que será implementada no futuro.</p>
 
 
