@@ -63,7 +63,7 @@ async function predict() {
             esquerda: "ir ao banheiro",
             cima: "levantar da cama",
             baixo:"deitar na cama",
-            none:"n"
+            none:"não identificado"
 
         }
 
