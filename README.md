@@ -5,7 +5,7 @@
 <p style="text-align: justify;">Imagine ter uma aplicação capaz de identificar o movimento da cabeça de um acamado e
   seu registro implicar em um pedido de cuidado enviado diretamente no celular do seu cuidador.
   A aplicação permite que a webcam identifique a pose da imagem apresentada, sua probabilidade de ocorrência e 
-  a solicitação correspondente, imprimindo o resultado na tela. Para isso é necessário clicar no botão 'começar' e acionar a camera do laptop.
+  a solicitação correspondente, imprimindo o resultado na tela. Para isso é necessário clicar no botão 'começar' e acionar a camera do dispositivo.
   Cada movimento da cabeça implica em uma solicitação: 
   ao mover a cabeça para cima (levantar da cama), baixo (deitar na cama), inclinar para esquerda (ir ao banheiro), direita (comer). Caso a imagem não seja
   identificada, pose 'none', será impresso 'não identificado'. 
